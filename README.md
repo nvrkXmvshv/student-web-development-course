@@ -7,5 +7,5 @@
 
 | Работа | Технологии | Статус | Ссылка |
 |--------|------------|--------|--------|
-| 1 | Django | Выполнено |  |
+| 1 | Django | Выполнено |[lab1](https://github.com/nvrkXmvshv/student-web-development-course/tree/main/lab1) |
 
