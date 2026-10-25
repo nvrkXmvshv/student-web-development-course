@@ -8,4 +8,4 @@
 | Работа | Технологии | Статус | Ссылка |
 |--------|------------|--------|--------|
 | 1 | Django | Выполнено |[lab1](https://github.com/nvrkXmvshv/student-web-development-course/tree/main/lab1) |
-| 2 | Django | Выполнено |[lab1](https://github.com/nvrkXmvshv/student-web-development-course/tree/main/lab2) |
+| 2 | Django | Выполнено |[lab2](https://github.com/nvrkXmvshv/student-web-development-course/tree/main/lab2) |
